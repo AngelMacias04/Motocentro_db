@@ -1,0 +1,6 @@
+// Notas Erdene
+@Data -> genera getters, setters, toString, equals, hashCode
+
+@NoArgsConstructor -> Genera un constructor vacio 
+
+@AllArgsConstructor -> Genera un constructor con todos los atributos
