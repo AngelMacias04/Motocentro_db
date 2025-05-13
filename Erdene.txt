@@ -4,3 +4,18 @@
 @NoArgsConstructor -> Genera un constructor vacio 
 
 @AllArgsConstructor -> Genera un constructor con todos los atributos
+
+// Notas Santiago xd
+
+En cada .java como bdtable contiene metodos como los son:
+
+cargarDatos SELECT * FROM persona
+agregarPersona INSERT INTO Persona
+modificarPersona UPDATE persona SET idpersona
+eliminarPersona DELETE FROM persona WHERE idpersona = ?
+limpiarCampos es solo la opcion donde limpia los campos de entrada
+
+cargo atributos
+
+idCargo
+nombreCargo
